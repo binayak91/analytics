@@ -1,0 +1,8 @@
+linear relationship y ~ x1,x2
+assumption
+pairs, cor()
+
+
+Logistic regression- predicts values of probability
+
+for large data sets - create model for train datas and use the model to predict values for test datasets
